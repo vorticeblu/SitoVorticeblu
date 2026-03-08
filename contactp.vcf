@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cavalli;Terenzio;;;
+FN:Terenzio Cavalli
+ORG:Prysmian;IT infrastructure
+TEL;TYPE=WORK,VOICE:04731821212
+TEL;TYPE=CELL:015162847327
+TEL;TYPE=WORK,VOICE:03036754444
+ADR;TYPE=WORK:;;Kabelstr. 9;Nordenham;;26954;Germany
+URL:https://prysmiansd.service-now.com/nav_to.do?uri=%2Fsp%3Fsysparm_stack%3Dno
+END:VCARD
